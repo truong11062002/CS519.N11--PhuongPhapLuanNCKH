@@ -25,7 +25,7 @@
 * **Năm học**: 2022-2023
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
-### 1.Thị giác máy tính
+### 1.Phương pháp luận nghiên cứu khoa học
 
 
 <a name ="colab"></a>
@@ -37,7 +37,7 @@
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
-* PGS.TS. **Lê Đình Duy** - *@uit.edu.vn*
+* PGS.TS. **Lê Đình Duy** - *duyld@uit.edu.vn*
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
