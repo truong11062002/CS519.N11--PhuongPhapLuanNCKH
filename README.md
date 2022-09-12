@@ -25,15 +25,42 @@
 * **Năm học**: 2022-2023
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
-### 1.Phương pháp luận nghiên cứu khoa học
+### 1. TÓM TẮT KIẾN THỨC
+#### WEEK 1
+##### Sự tương tự giữa học và chơi cầu lông/bơi lội
+Trong cầu lông/bơi lội muốn trở nên xuất sắc trong môn thể thao đó cần phải có những kỹ năng cần thiết (ví dụ trong cầu lông: cách di chuyển, cách cầm vợt). Cũng như trong việc học, muốn học tốt môn học đó ta cần phải có các phương pháp học đúng đắn, giúp tiết kiệm thời gian cho bản thân và đạt được hiệu quả tốt hơn.
+
+##### Học như thế nào cho hiệu quả
+https://zingnews.vn/video-gs-truong-nguyen-thanh-tu-van-cach-hoc-de-lam-viec-voi-robot-post922606.html
+
+Tóm tắt về video: Học là phải cần đặt ra câu hỏi hoặc vấn đề khi cần thiết, không thụ động. Bên cạnh đó, học phải đi đôi với hành để áp dụng những kiến thức đã học vào thực tiễn.
+
+##### Cách học tốt một ngôn ngữ
+
+https://www.youtube.com/watch?v=Ge7c7otG2mk
+
+Tóm tắt video: Muốn học tốt một ngôn ngữ điều quan trọng là phải điềm tĩnh và tự tin về bản thân mình. Không ngại mắc sai lầm khi giao tiếp với người khác. Bên cạnh đó, phải hướng đến mục tiêu mà mình muốn đạt được thay vì sợ bị người khác đánh giá.
+
+##### Chìa khóa dẫn đến thành công - SỰ BỀN BỈ
+
+https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance?language=vi
+
+Tóm tắt video: Sự thành công không chỉ xuất phát từ IQ mà xuất phát từ thái độ học tập, cụ thể là sự bền bỉ, kiên trì trong học tập và nghiên cứu.
+
+#### Vì sao cần phải học phương pháp học (learn how to learn) 
+
+Lí do cần phải học phương pháp học (learn how to learn) vì:
+*	Tiết kiệm thời gian học tập
+*	Đạt được mục tiêu nhanh hơn 
+*	Việc học trở nên hứng thú và nhẹ nhàng hơn
 
 
 <a name ="colab"></a>
-### 2.COLAB ASSSIGNMENTS
+### 2. COLAB ASSSIGNMENTS
 
 
 <a name ="QT"></a>
-### 3.QT IN CLASS
+### 3. QT IN CLASS
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
