@@ -75,7 +75,8 @@ Lí do cần phải học phương pháp học (learn how to learn) vì:
 | 3      | 20520355      | Lê Thị Phương Vy       |https://github.com/Ceci-june                          |20520355@gm.uit.edu.vn   |
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-1. Tên đồ án: Updating...
-## DEMO ĐỒ ÁN
+1. TÊN ĐỀ TÀI: GUIDED ANCHORING CASCADE R-CNN: SỰ CẢI TIẾN CHO HỌ R-CNN  TRONG BÀI TOÁN PHÁT HIỆN ĐỐI TƯỢNG TRÊN ẢNH TÀI LIỆU TIẾNG VIỆT
+2. TÊN ĐỀ TÀI TIẾNG ANH: GUIDED ANCHORING CASCADE R-CNN: AN INTENSIVE IMPROVEMENT OF R-CNN IN VIETNAMESE DOCUMENT DETECTION
+## BÁO CÁO ĐỒ ÁN YOUTUBE
 
 
